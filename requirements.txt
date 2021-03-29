@@ -184,7 +184,7 @@ pycparser==2.17
 pyflakes==1.6.0
 pyflux==0.4.17
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.8.3
 pymc==2.3.7
 pymc3==3.3
