@@ -61,7 +61,7 @@ fasteners==0.14.1
 fastparquet==0.1.4
 feather-format==0.4.0
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 formlayout==1.1.0
 fuzzywuzzy==0.16.0
 geopy==1.12.0
