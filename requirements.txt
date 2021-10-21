@@ -9,7 +9,7 @@ asteval==0.9.12
 astroid==1.6.2
 astroML==0.3
 attrs==17.4.0
-Babel==2.5.3
+Babel==2.9.1
 backports-abc==0.5
 baresql==0.7.4
 bcolz==1.2.0
